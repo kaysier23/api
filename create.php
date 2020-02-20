@@ -1,4 +1,4 @@
-<form action="pro_create.php" method="POST">
+<form action="con_create.php" method="POST">
 <input type="text" name="name" placeholder="name"/>
 <input type="text" name="description" placeholder="description"/>
 <input type="text" name="price" placeholder="price"/>
