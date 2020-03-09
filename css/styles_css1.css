@@ -1,11 +1,9 @@
 h1{
-	font-family: "Quicksand";
 	text-align: center;
 	color: white;
 }
 
 h2{
-	font-family: "Quicksand";
 	text-align: center;
 	color: white;
 }
@@ -17,7 +15,6 @@ input{
 	border-radius: 1em;
 	background-color: whitesmoke;
 	font-size: 18px;
-	font-family: Quicksand;
 }
 
 select{
@@ -27,13 +24,13 @@ select{
   border-radius: 1em;
   background-color: whitesmoke;
   font-size: 18px;
-  font-family: Quicksand;
+
 }
 
 label{
 	margin-left: 449px;
 	font-size: 20px;
-	font-family: Quicksand;
+
 }
 
 table {
@@ -64,7 +61,6 @@ table a{
   border-radius: 1em;
   background-color: whitesmoke;
   font-size: 18px;
-  font-family: Quicksand;
 }
 
 .submit{
@@ -74,7 +70,6 @@ table a{
   border-radius: 1em;
   background-color: whitesmoke;
   font-size: 18px;
-  font-family: Quicksand;
 }
 
 .update{
@@ -85,7 +80,6 @@ table a{
   font-family: Quicksand; 
   background-color: #183c64; 
   color: white;
-  border-radius: 1em;
 }
 
 .delete{
@@ -96,7 +90,6 @@ table a{
   border-radius: 1em;
   background-color: whitesmoke;
   font-size: 18px;
-  font-family: Quicksand;
 }
 
 .confirm {
@@ -106,7 +99,6 @@ table a{
   width: 406px;
   height: 40pt;
   font-size: 20px; 
-  font-family: Quicksand; 
   background-color: #183c64; 
   color: white;
   border-radius: 1em;
@@ -120,7 +112,6 @@ table a{
   width: 200px;
   height: 40pt;
   font-size: 20px; 
-  font-family: Quicksand; 
   background-color: #183c64; 
   color: white;
   border-radius: 1em;
@@ -134,7 +125,6 @@ table a{
   width: 200px;
   height: 40pt;
   font-size: 20px; 
-  font-family: Quicksand; 
   background-color: #183c64; 
   color: white;
   border-radius: 1em;
