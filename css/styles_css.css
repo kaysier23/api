@@ -55,15 +55,6 @@ table a{
 	text-decoration: none;
 }
 
-.search{
-  margin-left: 410px;
-  width: 400px;
-  height: 50px;
-  border-radius: 1em;
-  background-color: whitesmoke;
-  font-size: 18px;
-}
-
 .submit{
   margin-left: 20px;
   width: 100px;
